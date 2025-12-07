@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/user-attachments/assets/6f966af9-de0d-450f-8aec-c51a49451ae9)](https://shubham14243.github.io/portfolio)
 <h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" src="https://shubham14243.github.io/portfolio/avatar.png" height="auto" width="400" />
+<img align="right" alt="coding" src="https://shubham14243.github.io/portfolio/avatar.png" height="auto" width="300" />
 
 - 🔭 I’m currently working on [NoteCraft](https://github.com/Shubham14243/Notecraft)
 
