@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" src="https://shubham14243.github.io/portfolio/avatar.png" />
+<img align="right" alt="coding" src="https://shubham14243.github.io/portfolio/avatar.png" height="auto" width="400" />
 
 - 🔭 I’m currently working on [NoteCraft](https://github.com/Shubham14243/Notecraft)
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-kumar-gupta-447943146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-gupta-447943146" height="auto" width="400" /></a>
+<a href="https://linkedin.com/in/shubham-kumar-gupta-447943146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-gupta-447943146" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
